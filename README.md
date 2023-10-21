@@ -7,19 +7,13 @@ This is a simple demo project showcasing a basic e-commerce website using HTML, 
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in a web browser to view the demo.
 
-## Access the Demo Online
+## Project Structure
 
-You can also access this demo online by clicking the following link: [MultiMart Demo](https://mohamedsalah986.github.io/Multimart-Demo/)
+- `index.html`: The main HTML file that contains the website structure and content.
+- `styles.css`: The CSS file that styles the website.
+- `img/`: A directory containing images of the products.
+- `README.md`: The documentation you are currently reading.
 
-## Using a Custom Domain
+Feel free to modify and expand upon this project to demonstrate your web development skills further.
 
-If you wish to serve this website from a custom domain, follow these steps:
-
-1. **Buy a Domain**: If you don't already have one, purchase a custom domain from a domain registrar like Namecheap, GoDaddy, or Google Domains.
-
-2. **Set up DNS Records**:
-
-   - Log in to your domain registrar's website.
-   - Access your domain's DNS settings.
-   - Create two DNS records:
-     - A (Address)...
+You can access the live demo here: [MultiMart Demo](https://mohamedsalah986.github.io/Multimart-Demo/)
